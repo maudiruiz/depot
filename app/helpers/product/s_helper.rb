@@ -1,0 +1,2 @@
+module Product::SHelper
+end
